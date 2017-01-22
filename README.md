@@ -7,7 +7,6 @@
 npm install -g gulp
 npm install
 ```
-<br>
 
 
 ## Usage
@@ -15,4 +14,3 @@ npm install
 ```
 gulp js
 ```
-<br>
